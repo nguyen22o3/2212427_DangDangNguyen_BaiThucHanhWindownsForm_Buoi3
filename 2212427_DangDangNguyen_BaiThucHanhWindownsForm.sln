@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2212427_DangDangNguyen_BaiThucHanhWindownsForm", "2212427_DangDangNguyen_BaiThucHanhWindownsForm\2212427_DangDangNguyen_BaiThucHanhWindownsForm.csproj", "{8178942E-B630-485A-BB80-89D52B05425D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2212427_DangDangNguyen_BTWindownsForm", "2212427_DangDangNguyen_BTWindownsForm\2212427_DangDangNguyen_BTWindownsForm.csproj", "{ECD394DD-1463-40A2-8F2B-CDF6A3AF7F0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8178942E-B630-485A-BB80-89D52B05425D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8178942E-B630-485A-BB80-89D52B05425D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8178942E-B630-485A-BB80-89D52B05425D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8178942E-B630-485A-BB80-89D52B05425D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD394DD-1463-40A2-8F2B-CDF6A3AF7F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD394DD-1463-40A2-8F2B-CDF6A3AF7F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD394DD-1463-40A2-8F2B-CDF6A3AF7F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD394DD-1463-40A2-8F2B-CDF6A3AF7F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D37A606-0A24-40B0-8E7A-B5A096F7CCC2}
+	EndGlobalSection
+EndGlobal
