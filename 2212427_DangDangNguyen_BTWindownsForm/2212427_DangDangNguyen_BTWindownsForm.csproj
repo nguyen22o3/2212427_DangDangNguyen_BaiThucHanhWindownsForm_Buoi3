@@ -52,11 +52,11 @@
     <Compile Include="frmBai2.Designer.cs">
       <DependentUpon>frmBai2.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmBai3.cs">
+    <Compile Include="frmBai3.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmBai3.Designer.cs">
-      <DependentUpon>FrmBai3.cs</DependentUpon>
+    <Compile Include="frmBai3.Designer.cs">
+      <DependentUpon>frmBai3.cs</DependentUpon>
     </Compile>
     <Compile Include="frmChinh.cs">
       <SubType>Form</SubType>
@@ -80,8 +80,8 @@
     <EmbeddedResource Include="frmBai2.resx">
       <DependentUpon>frmBai2.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmBai3.resx">
-      <DependentUpon>FrmBai3.cs</DependentUpon>
+    <EmbeddedResource Include="frmBai3.resx">
+      <DependentUpon>frmBai3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmChinh.resx">
       <DependentUpon>frmChinh.cs</DependentUpon>

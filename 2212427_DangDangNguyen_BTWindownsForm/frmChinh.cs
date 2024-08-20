@@ -30,7 +30,7 @@ namespace _2212427_DangDangNguyen_BTWindownsForm
 
         private void toolStripButton3_Click(object sender, EventArgs e)
         {
-            var form = new FrmBai3();
+            var form = new frmBai3();
             form.ShowDialog();
         }
 
