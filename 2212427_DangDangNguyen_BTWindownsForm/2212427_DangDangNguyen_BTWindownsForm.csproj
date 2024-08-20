@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmBai2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBai2.Designer.cs">
+      <DependentUpon>frmBai2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBai3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBai3.Designer.cs">
+      <DependentUpon>FrmBai3.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmChinh.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -61,8 +73,15 @@
     <Compile Include="main.cs" />
     <Compile Include="HangHoa.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TinhToan.cs" />
     <EmbeddedResource Include="frmBai1.resx">
       <DependentUpon>frmBai1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBai2.resx">
+      <DependentUpon>frmBai2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBai3.resx">
+      <DependentUpon>FrmBai3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmChinh.resx">
       <DependentUpon>frmChinh.cs</DependentUpon>

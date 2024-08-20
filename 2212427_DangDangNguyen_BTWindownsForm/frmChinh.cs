@@ -25,12 +25,19 @@ namespace _2212427_DangDangNguyen_BTWindownsForm
 
         private void toolStripButton2_Click(object sender, EventArgs e)
         {
-
+           
         }
 
         private void toolStripButton3_Click(object sender, EventArgs e)
         {
+            var form = new FrmBai3();
+            form.ShowDialog();
+        }
 
+        private void toolStripButton2_Click_1(object sender, EventArgs e)
+        {
+            var form = new frmBai2();
+            form.ShowDialog();
         }
     }
 }
